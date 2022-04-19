@@ -1,1 +1,1 @@
-{"base": "366fae2", "parent": "debian/rolling/serial_driver", "previous": "6d7642b", "trim": "", "trimbase": ""}
+{"base": "817313f", "parent": "debian/humble/serial_driver", "previous": "c9f99aa", "trim": "", "trimbase": ""}
